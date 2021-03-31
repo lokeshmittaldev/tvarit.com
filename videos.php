@@ -47,6 +47,13 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+    <style>
+    sup{font-weight: 400; font-size: 32px; top:-9px; left: 2px; font-smooth: always; -webkit-font-smoothing:always; -moz-osx-font-smoothing:always;     font-family: 'Poppins', sans-serif;}
+    </style>
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -57,7 +64,7 @@
     <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js"></script>
     <noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
     <!------------------------ main menu start ---------------------->
-    <?php 
+    <?php
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
@@ -195,12 +202,12 @@
 
 
     <!------------------------Countdown start --------------------->
-    <?php 
+    <?php
                 include 'change_we_brought.php';
-                ?>  
+                ?>
     <!------------------------Countdown end --------------------->
     <!------------------------Automated slide start --------------------->
-    <?php 
+    <?php
                 include 'change_we_bring.php';
                 ?>
     <!------------------------Automated slide end --------------------->
@@ -211,7 +218,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span></span> The Team</div>
+                                class="color">i</span>t<sup style="top:-22px;">&reg;</sup></span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
@@ -224,7 +231,7 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
+    <?php
                 include 'using-tvarit.php';
                 ?>
     <!------------------------Client logo slide end --------------------->
@@ -253,7 +260,7 @@
     <script src="js/parallax.js"></script>
     <script src="js/jquery.fancybox.js"></script>
     <scritp>
-        
+
     </script>
 
 

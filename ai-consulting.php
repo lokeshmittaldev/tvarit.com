@@ -28,6 +28,13 @@
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+    <style>
+    sup{font-weight: 400; font-size: 32px; top:-9px; left: 2px; font-smooth: always; -webkit-font-smoothing:always; -moz-osx-font-smoothing:always;     font-family: 'Poppins', sans-serif;}
+    </style>
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -77,7 +84,7 @@
     <div class="section-padding" id="downClick">
         <div class="container">
             <div class="title centerTitle">
-                <div class="innr-sec-mainTitle ai_predictive">SUCCESSFULLY COMPLETE YOUR DATA SCIENCE PROJECTS WITH TV<span class="red">A</span>R<span class="red">I</span>T<span style="font-size:19px; Position:relative; top:-17px; left:2px;">&reg;</span> CONSULTING</div>
+                <div class="innr-sec-mainTitle ai_predictive">SUCCESSFULLY COMPLETE YOUR DATA SCIENCE PROJECTS WITH TV<span class="red">A</span>R<span class="red">I</span>T<sup style="">&reg;</sup> CONSULTING</div>
                 <div class="short-line mx-auto bg-red"></div>
                 <div class="text-p">
                 Our experts support you at every stage of your data science projects. We help you in solving key issues of data extraction, data preparation, data labelling and predictive analytics. We provide on-site and remote based consulting services.

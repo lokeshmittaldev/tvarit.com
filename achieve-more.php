@@ -46,6 +46,12 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+    <style>
+    sup{font-weight: 400; font-size: 32px; top:-9px; left: 2px; font-smooth: always; -webkit-font-smoothing:always; -moz-osx-font-smoothing:always;     font-family: 'Poppins', sans-serif;}
+    </style>
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -72,7 +78,7 @@
                         </div>
                         <div class="content">
                             <div class="text-big40">
-                            with Tvarit<span style="font-size:19px; Position:relative; top:-16px; left:2px;">&reg;</span> AI Solutions</div>
+                            with Tvarit<sup style="">&reg;</sup> AI Solutions</div>
                         </div>
                         <br>
                     </div>
@@ -89,7 +95,7 @@
         <div class="container">
             <div class="centerTitle">
               <!-- <h3 class="bold text-center red mb-0">Achieve more with</h3> -->
-              <div class="innr-sec-mainTitle uppr">Tvarit<span style="font-size:19px; Position:relative; top:-18px; left:2px;">&reg;</span> <span class="red">AI</span> solution</div>
+              <div class="innr-sec-mainTitle uppr">Tvarit<sup style="">&reg;</sup> <span class="red">AI</span> solution</div>
             </div>
             <br>
             <br>
@@ -378,7 +384,7 @@
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="sec-mainTitle">Tv<span class="red">a</span>r<span
-                                class="red">i</span>t<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> The Team</div>
+                                class="red">i</span>t<sup style="top:-23px;">&reg;</sup> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">

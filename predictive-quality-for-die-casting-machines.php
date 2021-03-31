@@ -66,6 +66,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+    <style>
+    sup{font-weight: 400; font-size: 32px; top:-9px; left: 2px; font-smooth: always; -webkit-font-smoothing:always; -moz-osx-font-smoothing:always;     font-family: 'Poppins', sans-serif;}
+    </style>
+
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
@@ -148,7 +155,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> AI </span> </div>
+                    <div class="text-big60"><span class="tvarit-black">TVARIT<sup style="top:-22px;">&reg;</sup> AI </span> </div>
                     <h3 class="bold red text-center">SOLUTIONS</h3>
                 </div>
                 <div class="centerPharseContent text-p">

@@ -46,6 +46,13 @@
 
     <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+    <style>
+    sup{font-weight: 400; font-size: 32px; top:-9px; left: 2px; font-smooth: always; -webkit-font-smoothing:always; -moz-osx-font-smoothing:always;     font-family: 'Poppins', sans-serif;}
+    </style>
+
 
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -104,7 +111,177 @@
             <br>
 
             <div id="accordion">
-            <div class="card">
+              <!---->
+              <div class="card">
+                      <div class="card-header" id="hrmanage-post-title">
+                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#hrmanage-post"
+                              aria-expanded="false" aria-controls="backoffice-job">
+                              HUMAN RESOURCE MANAGER (BARODA - GUJARAT)
+                          </a>
+                      </div>
+                      <div id="hrmanage-post" class="collapse" aria-labelledby="hrmanage-post-title" data-parent="#accordion">
+                          <div class="card-body">
+                              <p class="text-p">
+                                Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging Artificial Intelligence. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company. Tvarit is awarded as one of the top 8 out of 490 AI companies in Europe.
+                              </p>
+                              <h4>Job Details:</h4>
+                              <p class="text-p">We are looking for an experienced HR Manager for our office in Vadodara, Gujarat, India. The person will be responsible for performing & complies with regulation of Human Resource Management. The Human Resource Manager will lead and direct the routine functions of the Human Resources (HR) department including hiring and interviewing staff, administering pay, benefits, and leave, and enforcing company policies and practices. This is a great opportunity for a hard-working and self-motivated individual with excellent communication skills. </p>
+                              <h4>Key responsibilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Understanding Manpower requirement of the organization.</li>
+                                  <li>Recruits, interviews, tests, and selects employees to fill vacant positions</li>
+                                  <li>Plans and conducts new employee orientation & onboarding to foster positive attitude toward Company goals.</li>
+                                  <li>Identifies legal requirements and government reporting regulations affecting human resources functions and ensures compliance.</li>
+                                  <li>Drafting and maintaining HR policies and HR Manual</li>
+                                  <li>Administers benefits programs such as vacation, sick leave, leave of absence, and employee assistance etc for preparing monthly payroll.</li>
+                                  <li>Conducting & organizing performance appraisal Annually.</li>
+                                  <li>Compilation and preparation of briefing and presentation materials, speeches, background information and documentation for meetings & Trainings.</li>
+                                  <li>Day to day office administration, team building, purchasing etc.</li>
+                                  <li>Organizing Employee Engagement activities time to time</li>
+                              </ul>
+                              <h4>Required Skills/Abilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Excellent verbal and written communication skills.</li>
+                                  <li>Excellent interpersonal, negotiation, and conflict resolution skills.</li>
+                                  <li>Excellent organizational skills and attention to detail.</li>
+                                  <li>Strong analytical and problem-solving skills.</li>
+                                  <li>Ability to act with integrity, professionalism, and confidentiality.</li>
+                                  <li>Thorough knowledge of employment-related laws and regulations.</li>
+                                  <li>Proficient with Microsoft Office Suite or related software.</li>
+                              </ul>
+                              <h4>Education & Experience:</h4>
+                              <ul class="ul-list">
+                                  <li>Master's degree in Human Resources, Business Administration, or related field required</li>
+                                  <li>More than 3 years of experience in progressively responsible Human Resource role in IT/Software or related domain.</li>
+                                  <li>Excellent Labor Laws and HR Compliance knowledge</li>
+                              </ul>
+                              <h4>Our Team Culture:</h4>
+                              <ul class="ul-list">
+                                  <li>We provide hands-­on statistical solutions for automotive and manufacturing industry in Germany to highlight trends and generate insights</li>
+                                  <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams</li>
+                                  <li>We act as primary point of contact for business forecasting, delivering metrics/analytics that drive the organization and help senior management taking data driven business decisions</li>
+                              </ul>
+                              <br>
+                              <p><strong>Availability:</strong> Fulltime</p>
+                              <p><strong>Experience:</strong>  3+ years</p>
+                              <p><strong>Schedule:</strong>  Day Shift</p>
+                              <br>
+                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                      href="javascript://">careers@tvarit.com</a></p>
+                              <br>
+                              <p class="red">Location: Baroda (Gujarat)</p>
+                          </div>
+                      </div>
+                  </div>
+              <!---->
+              <!---->
+              <div class="card">
+                      <div class="card-header" id="headingTwo">
+                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#backofficejob"
+                              aria-expanded="false" aria-controls="backoffice-job">
+                              Back-office Assistant and Management Support (BARODA - GUJARAT)
+                          </a>
+                      </div>
+                      <div id="backofficejob" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                          <div class="card-body">
+                              <p class="text-p">
+                                Tvarit Solutions has developed AI-enabled software for the manufacturing industry.  Tvarit is looking for candidates who can help in Business development, creating content for our technical posts, website, and blogs. You will be involved in Project management, customer offer creation, presentation creation and helping closing business deals. You should have a strong growth mindset and a strong work ethic.
+                              </p>
+                              <h4>Your Responsibilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Maintain executive’s agenda and assist in planning appointments, board meetings, conferences etc</li>
+                                  <li>Attend meetings and keep minutes</li>
+                                  <li>Handle and prioritize all outgoing or incoming correspondence (e-mail, letters, packages etc.)</li>
+                                  <li>Make travel arrangements for executives</li>
+                                  <li>Handle confidential documents ensuring they remain secure</li>
+                                  <li>Conduct research and prepare presentations or reports as assigned</li>
+                                  <li>Organizing staff meetings and updating calendars.</li>
+                                  <li>Gathering, authentication, and preparation and formatting of presentations.</li>
+                                  <li>Need to help in Financing and Accounting activities</li>
+                              </ul>
+                              <h4>Requirements:</h4>
+                              <ul class="ul-list">
+                                  <li>The candidate is expected to have a masters degree in Business Administration, Marketing or Communications</li>
+                                  <li>Proven experience as Back end office assistant or similar role in Software company</li>
+                                  <li>Candidate should have a sense of urgency while completing delegated tasks from management</li>
+                                  <li>Proficient in MS Office and other project management software like Jira</li>
+                                  <li>Familiarity with basic research methods and reporting techniques</li>
+                                  <li>Excellent organizational and time-management skills</li>
+                                  <li>Outstanding communication and negotiation abilities</li>
+                                  <li>Integrity and confidentiality</li>
+                              </ul>
+                              <br>
+                              <p><strong>Availability:</strong> Fulltime</p>
+                              <p><strong>Experience:</strong>  3 to 5 years</p>
+                              <br>
+                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                      href="javascript://">careers@tvarit.com</a></p>
+                              <br>
+                              <p class="red">Location: Baroda (Gujarat)</p>
+                          </div>
+                      </div>
+                  </div>
+              <!---->
+              <!---->
+              <div class="card">
+                      <div class="card-header" id="senior-office-job-h">
+                          <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#senior-office-job"
+                              aria-expanded="false" aria-controls="backoffice-job">
+                              Senior Operations Manager (BARODA - GUJARAT)
+                          </a>
+                      </div>
+                      <div id="senior-office-job" class="collapse" aria-labelledby="senior-office-job-h" data-parent="#accordion">
+                          <div class="card-body">
+                              <p class="text-p">
+                                Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging AI. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company.
+                              </p>
+                              <h4>Job Details:</h4>
+                              <p class="text-p">We are looking for an experienced Operations Head to organize and oversee the daily operations of our India office. You will be the one to ensure that our business is well-coordinated and productive by managing its procedures and coaching its people. The area of responsibility for this role is very wide and thus requires thorough knowledge of various company processes. He/She must be an excellent leader who can discover the most efficient ways to run the business. The goal is to safeguard and augment the efficiency of the company’s operations to facilitate accelerating development and long-term success.</p>
+                              <h4>Key responsibilities:</h4>
+                              <ul class="ul-list">
+                                  <li>Manage and increase per hour productivity of the company.</li>
+                                  <li>Liaising with superior to make decisions for operational activities and set strategic goals</li>
+                                  <li>Planning and monitoring the day-to-day running of business to ensure smooth progress</li>
+                                  <li>Coordinating with staff from different departments and provide constructive feedback</li>
+                                  <li>Oversee customer support processes and organize them to enhance customer satisfaction</li>
+                                  <li>Review financial information and adjust operational budgets to promote profitability</li>
+                                  <li>Revise and/or formulate policies and promote their implementation</li>
+                                  <li>Manage relationships/agreements with external partners/vendors</li>
+                                  <li>Evaluate overall performance by gathering, analysing and interpreting data and metrics</li>
+                                  <li>Ensure that the company runs with legality and conformity to established regulations</li>
+                              </ul>
+                              <h4>Your background:</h4>
+                              <ul class="ul-list">
+                                <li>Techno commercial domain is preferred – BE Computer/IT + MBA (Finance/Marketing)</li>
+                                <li>Proven experience as a Head of Operations or equivalent position</li>
+                                <li>5+ years of experience in Operations</li>
+                                <li>Outstanding communication and people skills</li>
+                                <li>Knowledge of industry’s legal rules and guidelines</li>
+                                <li>In depth knowledge of diverse business functions and principles (e.g. supply chain, finance, customer service etc.)</li>
+                                <li>Familiarity with MS Office and various project management softwares like Jira, Confluence, etc</li>
+                              </ul>
+                              <h4>Our Team Culture:</h4>
+                              <ul class="ul-list">
+                                  <li>We provide hands-­on statistical solutions for automotive and manufacturing industry in Germany to highlight trends and generate insights</li>
+                                  <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data teams</li>
+                                  <li>We act as primary point of contact for business forecasting, delivering metrics/analytics that drive the organization and help senior management taking data driven business decisions</li>
+                              </ul>
+                              <br>
+                              <p><strong>Availability:</strong> Fulltime</p>
+                              <p><strong>Experience:</strong>  5+ years</p>
+                              <br>
+                              <p class="red">To apply, please send an email, including your resume as an attachment, to <a
+                                      href="javascript://">careers@tvarit.com</a></p>
+                              <br>
+                              <p class="red">Location: Baroda (Gujarat)</p>
+                          </div>
+                      </div>
+                  </div>
+              <!---->
+            <!--div class="card"-->
+
+            <!--<div class="card">
+
                     <div class="card-header" id="headingTwo">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn2"
                             aria-expanded="false" aria-controls="acccrdn2">
@@ -168,7 +345,7 @@
                             <p class="red">Location: Mumbai</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!--<div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnTechArc"
@@ -418,7 +595,7 @@
 
 
 
-                <div class="card">
+                <!--div class="card">
                     <div class="card-header" id="headingFour">
                         <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn4"
                             aria-expanded="false" aria-controls="acccrdn4">
@@ -478,7 +655,7 @@
                             <p class="red">Location: Frankfurt am Main</p>
                         </div>
                     </div>
-                </div>
+                </div-->
 
 
                 <!-- <div class="card">
@@ -668,94 +845,7 @@
                     </div>
                 </div> -->
 
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdnMLR"
-                            aria-expanded="false" aria-controls="acccrdnMLR">
-                            Machine Learning Researcher (Digital Signal Processing) (MUMBAI)
-                        </a>
-                    </div>
 
-                    <div id="acccrdnMLR" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">
-                                Tvarit opens up a new Artificial Intelligence division with a vision to help
-                                manufacturing companies transform their businesses by leveraging AI. We strive to
-                                achieve efficient processes management for factories and plants, increasing the yield,
-                                increasing the accuracy and reliability by bringing data-driven decisions, shorten the
-                                time frame of delivery, and hence direct reflection in terms of profit to the
-                                enterprise. This is a chance for you to get in on the ground floor of an exciting AI
-                                company.<br>
-
-                                You will be responsible for building AI / Machine Learning applications for our
-                                manufacturing clients. We expect you to have strong programming skills, and background
-                                of statistical engineering, data mining. You should have a strong growth mindset and a
-                                strong work ethic.
-
-
-                            </p>
-
-                            <h4>Key responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Work with manufacturing clients, understanding various problems and failures in
-                                    different kinds of high tech machines.
-                                </li>
-                                <li>Develop digital signal-processing algorithms for vibration analysis of multi-sensor data
-                                </li>
-
-                                <li>Process existing dataset, perform statistical analysis of processed signals to provide insights of the measurements
-                                </li>
-                                <li>Define a set of features on the basis of hundreds of sensors signals coming from a
-                                    single machine, work on building time series forecasting and other cross metric ML
-                                    models
-                                </li>
-                                <li>Creating machine learning models on data containing high and low frequency signals.</li>
-                                <li>Search for the latest research papers as per use case and make POC.</li>
-                                <li>Collaborate with production engineers to deploy the results of your research.</li>
-                                <li> Develop evaluation techniques to gauge the performance and accuracy of the models
-                                    you build. </li>
-                                <li>Write production-ready code in Python / R for above models, further write unit
-                                    tests, integration tests, end to end tests</li>
-                            </ul>
-                            <br>
-                            <h4>Your Background:</h4>
-                            <ul class="ul-list">
-                                <li>Know-how of signal processing  algorithms e.g., noise filtering technique, data distributions, periodograms etc and the math needed to for this such as linear algebra, probability,
-                                    statistics.
-                                </li>
-                                <li>Know-how of data understanding and preprocessing methods e.g., fft, deep understanding of wavelets etc for feature engineering, further DTW, STFT based similarlity detection algorithms.
-                                </li>
-                                <li>Currently pursuing a Master or Doctoral degree in Electrical/Mechanical Engineering, Computer Engineering or related field</li>
-                                <li>Ability to write code in a scripting language (Python, Matlab, R is a must).</li>
-                                <li>Strong coding ability. While theoretical knowledge of algorithms is appreciated, it
-                                    is also important that you're able to write clean, efficient code in Python (with a
-                                    focus on testability and using OOP) on a Linux platform.</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing
-                                    industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines
-                                    health and work closely with their backend databases and data engineering teams
-                                </li>
-                                <li>Experience working with Manufacturing companies especially in German-speaking region
-                                </li>
-                                <li>We act as the primary point of contact for business forecasting, delivering
-                                    metrics/analytics that drives the organization and helps senior management taking
-                                    data-driven business decisions</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a
-                                    href="mailto:careers@tvarit.com">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- <div class="card">
                     <div class="card-header" id="headingFive">
@@ -1033,66 +1123,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     </div>
                 </div>
                 <!---->
-                <div class="card">
-                    <div class="card-header" id="headingSix">
-                        <a href="javascript://" class="collapsed" data-toggle="collapse" data-target="#acccrdn6"
-                            aria-expanded="false" aria-controls="acccrdn1">
-                            SENIOR FRONT-END DEVELOPER (MUMBAI)
-                        </a>
-                    </div>
 
-                    <div id="acccrdn6" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-                        <div class="card-body">
-                            <p class="text-p">Tvarit GmbH envisions to help manufacturing companies transform their businesses by leveraging AI. We strive to achieve efficient processes management for factories and plants, increasing the yield, increasing the accuracy and reliability by bringing data driven decisions, shorten the time frame of delivery, and hence direct reflection in terms of profit to the enterprise. This is a chance for you to get in on the ground floor of an exciting AI company.</p>
-                            <p class="text-p">
-                              Your task would be to write plugins for Grafana (an open-source framework) or even tweak Grafana source code sometimes. You will work closely within an agile, scrum-based team to understand the business domain and client requirements.</p>
-                              <h4>Job Details:</h4>
-                              <p>Our goal is to build scalable and sustainable Automated Predictive Analytics (APA) solutions which are invisible and assistive, allowing manufacturers to do what they love-efficient productions. For this we need a robust and interactive frontend which allows users to visualise their data and peek under the hood if required. We use a modified version of Grafana for achieving this. </p>
-                            <h4>Key Responsibilities:</h4>
-                            <ul class="ul-list">
-                                <li>Development and maintenance of web application (Grafana) as per design requirements.</li>
-                                <li>Coordinate with the backend team to get any required API implemented.</li>
-                                <li>Collaborate with back-end developers and web designers to improve usability</li>
-                                <li>Ensure high quality graphic standards and brand consistency</li>
-                                <li>Optimize applications for maximum speed</li>
-                                <li>Write functional requirement documents and guides</li>
-                                <li>Get feedback from, and build solutions for, users and customers</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Skills Required</h4>
-                            <ul class="ul-list">
-                            <!--<li>Master's degree in in appropriate field of study</li>-->
-                              <li>Experience in developing and maintaining production level applications</li>
-                              <li>Experience with GitHub or similar git-based application</li>
-                              <li>Familiarity with any Linux/Unix based operating system (Ubuntu, Debian, MacOS, etc)</li>
-                              <li>Indepth knowledge of ReactJS (version 16.12) with at least one year of experience</li>
-                              <li>Basic knowledge of AngularJS (version 1.6)</li>
-                              <li>Basic knowledge of designing and UI/UX</li>
-                              <li>Understanding of SCRUM methodology</li>
-                              <li>Ability to quickly learn new concepts</li>
-                              <li>Basic knowledge of Golang (version 1.14) (Optional)</li>
-                            </ul>
-
-                            <br>
-
-                            <h4>Our Team Culture:</h4>
-                            <ul class="ul-list">
-                                <li>We provide hands-­on statistical solutions for the automotive and manufacturing industry in Germany to highlight trends and generate insights.</li>
-                                <li>We have closely worked with Deutsche Bahn, Linde, Liebherr creating AI for machines health and work closely with their backend databases and data engineering teams</li>
-                                <li>Experience working with Manufacturing companies especially in German-speaking region</li>
-                                <li>We act as the primary point of contact for business forecasting, delivering metrics/analytics that drives the organization and helps senior management taking data-driven business decisions</li>
-                            </ul>
-                            <br>
-                            <hr>
-                            <p class="red">To apply, please send an email, including your resume as an attachment, to <a href="javascript://">careers@tvarit.com</a></p>
-                            <br>
-                            <p class="red"><strong>Availability:</strong> Full-time</p>
-                            <p class="red">Location: Mumbai</p>
-                        </div>
-                    </div>
-                </div>
                 <!---->
                 <!---->
                 <div class="card">
@@ -1161,7 +1192,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
                     </div>
                 </div>
                 <!---->
-            </div>
+            <!--/div-->
 
         </div>
     </div>
@@ -1242,7 +1273,7 @@ We, at Tvarit, envision to create AI for manufacturing and focus on the implemen
             <div class="white-box-shadow">
                 <div class="centerTitle">
                     <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span><span style="font-size:19px; Position:relative; top:-30px; left:4px;">&reg;</span> The Team</div>
+                                class="color">i</span>t</span><sup style="top:-22px;">&reg;</sup> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">

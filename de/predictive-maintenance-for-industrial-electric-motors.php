@@ -69,6 +69,12 @@
     <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+        <style>
+        sup{font-weight: 400; font-size: 32px; top:-9px; left: 2px; font-smooth: always; -webkit-font-smoothing:always; -moz-osx-font-smoothing:always;     font-family: 'Poppins', sans-serif;}
+        </style>
 </head>
 
 <body onload="ReadCookie()">
@@ -150,7 +156,7 @@
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">TVARIT<span style="font-size:19px; Position:relative; top:-30px; left:2px;">&reg;</span> <span class="red">KI</span> </div>
+                    <div class="sec-mainTitle">TVARIT<sup style="top:-22px;">&reg;</sup> <span class="red">KI</span> </div>
                     <h3 class="bold red text-center">LÖSUNGEN</h3>
                 </div>
                 <div class="centerPharseContent text-p">
